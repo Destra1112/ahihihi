@@ -1,7 +1,7 @@
 {
 	"name": "filesaver",
 	"description": "file saver bot",
-	"repository": "https://github.com/Amalrajanj/filesaver",
+	"repository": "https://github.com/Destra1112/ahihihi",
     "logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 	"env": {
